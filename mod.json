@@ -1,0 +1,23 @@
+{
+  "id": "omori_onondaga_tl",
+  "name": "Omoñi deyoweñnadenyahseh",
+  "description": "Dewagweñadé:nyoñh Owatomoñioñda:hseh",
+  "version": "0.1.0",
+  "files": {
+    "plugins": [
+	"js/plugins/"
+    ],
+    "text": [
+	"languages/en"
+    ],
+    "data": [
+	"data/"
+    ],
+    "maps": [
+    ],
+    "assets": [
+    ],
+    "exec": [
+    ]
+  }
+}
